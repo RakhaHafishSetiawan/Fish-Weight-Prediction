@@ -16,3 +16,6 @@ A Python Machine Learning Project, the main idea of this project is predicting f
 
 ## Creator
 Rakha Hafish Setiawan
+
+## Note From Creator
+GitHub is not able to display the boxplots in the EDA section, user must download the Jupyter Notebook in order to view the boxplots.
