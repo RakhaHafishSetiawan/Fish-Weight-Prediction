@@ -9,12 +9,9 @@ A Python Machine Learning Project, the main idea of this project is predicting f
 
 ## Libraries Used
 • Pandas <br>
-• Plotly Express <br>
 • Seaborn <br>
 • Matplotlib <br>
 • Scikit-Learn <br>
 
 ## Creator
 Rakha Hafish Setiawan
-
-
