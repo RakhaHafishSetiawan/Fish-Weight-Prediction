@@ -1,7 +1,8 @@
 # Fish Weight Multiple Linear Regression
+<img width="311" alt="Dash2" src="https://github.com/RakhaHafishSetiawan/Fish-Weight-Prediction/assets/102712597/81fe7a11-9baf-423f-82ab-8cbff27e27fd">
 
 
-![Screenshot (467)](https://user-images.githubusercontent.com/102712597/215659281-ccb8c492-2113-45a9-8395-e2297cc45a2d.png)
+
 
 
 ## Introduction
