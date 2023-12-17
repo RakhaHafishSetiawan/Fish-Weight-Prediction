@@ -1,4 +1,4 @@
-# Fish Weight Multiple Linear Regression
+# Fish Weight Prediction with Multiple Linear Regression
 
 
 ## Introduction
